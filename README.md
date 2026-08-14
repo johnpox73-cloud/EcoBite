@@ -1,2 +1,0 @@
-# EcoBite
-Pagina Web
